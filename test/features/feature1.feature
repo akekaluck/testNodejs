@@ -5,3 +5,4 @@ Feature: 100 Green Bottles
     Given 1000 green bottles are standing on the wall
     When 1 green bottle accidentally falls
     Then there are 99 green bottles standing on the wall
+	
