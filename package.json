@@ -1,0 +1,19 @@
+{
+  "name": "testNodejs",
+  "version": "0.0.1",
+  "description": "Project for learning NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "grant test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akekaluck/testNodejs.git"
+  },
+  "author": "akekaluck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akekaluck/testNodejs/issues"
+  },
+  "homepage": "https://github.com/akekaluck/testNodejs"
+}
