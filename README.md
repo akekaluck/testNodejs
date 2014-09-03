@@ -1,4 +1,4 @@
 testNodejs
 ==========
 
-A project to test nodejs
+A project to learn nodejs
